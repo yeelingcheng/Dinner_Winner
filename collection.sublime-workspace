@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rabbitroad/Desktop/deplo/oauth.py",
+		"/Users/rabbitroad/Desktop/deplo/app.py",
+		"/Users/rabbitroad/Desktop/Coding/microblog-version-0.9/app/__init__.py",
+		"/Users/rabbitroad/Desktop/Coding/bitskatie/templates/base.html",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 4/giphy1.json",
+		"/Users/rabbitroad/Desktop/Coding/bits/templates/tryingout.html",
+		"/Users/rabbitroad/Desktop/Coding/bits/bits.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 4/mashape.json",
+		"/Users/rabbitroad/Desktop/Coding/dinnerwinner-db-final/oauth.py",
+		"/Users/rabbitroad/Desktop/Coding/microblog-version-0.12/app/templates/base.html",
+		"/Users/rabbitroad/Desktop/Coding/microblog-version-0.12/app/templates/index.html",
+		"/Users/rabbitroad/Desktop/Coding/dinnerwinner-db-final/app.py",
+		"/Users/rabbitroad/Desktop/Coding/microblog-version-0.9/app/views.py",
+		"/Users/rabbitroad/Desktop/Coding/microblog-version-0.9/app/models.py",
+		"/Users/rabbitroad/Desktop/Coding/microblog-version-0.9/app/forms.py",
+		"/Users/rabbitroad/Desktop/Coding/flask-oauth-example-master/templates/index2.html",
+		"/Users/rabbitroad/Desktop/Coding/flask-oauth-example-master/templates/index.html",
+		"/Users/rabbitroad/Desktop/Coding/flask-oauth-example-master/oauth.py",
+		"/Users/rabbitroad/Desktop/Coding/flask-oauth-example-master/static/js/dinnerwinner.js",
+		"/Users/rabbitroad/Desktop/Coding/flask-oauth-example-master/app.py",
+		"/Users/rabbitroad/Desktop/Coding/flask-oauth-example-master/templates/index 2.html",
+		"/Users/rabbitroad/Desktop/Coding/bits/requirements.txt",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 3/templates/hello.html",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 3/hellohellohello.py",
+		"/Users/rabbitroad/Desktop/whats-for-dinner/js/dinnerwinner.js",
+		"/Users/rabbitroad/Desktop/iovana.github.io-master/reddiment.py",
+		"/Users/rabbitroad/Desktop/Coding/tryingout.html",
+		"/Users/rabbitroad/Desktop/whats-for-dinner/index.html",
+		"/Users/rabbitroad/Desktop/whats-for-dinner/css/dinnerwinner.css",
+		"/Users/rabbitroad/Desktop/sandbox/templates/recipe.html",
+		"/Users/rabbitroad/Desktop/sandbox/app.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 4/templates/3.html",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 4/ftcd.py",
+		"/Users/rabbitroad/Desktop/sandbox/static/sand.css",
+		"/Users/rabbitroad/Desktop/sandbox/static/dinnerwinner.js",
+		"/Users/rabbitroad/Desktop/sandbox/templates/index.html",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 3/hellohello.py",
+		"/Users/rabbitroad/Desktop/trying/application.py",
+		"/Users/rabbitroad/Desktop/trying/templates/index.html",
+		"/Users/rabbitroad/Desktop/sandbox/static/sand.js",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 4/weather.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 4/giphy.py",
+		"/Users/rabbitroad/Desktop/dinnerwinnerpython/app.py",
+		"/Users/rabbitroad/Desktop/dinnerwinnerpython/config.py",
+		"/Users/rabbitroad/Desktop/dinnerwinnerpython/requirements.txt",
+		"/Users/rabbitroad/Desktop/whats-for-dinner/css/bootstrap.css",
+		"/Users/rabbitroad/Desktop/UCL/PALSG308 Web Programming/summary.html",
+		"/Users/rabbitroad/Desktop/Coding/coding_course/challengeexercise/javascript/javascript.js",
+		"/Users/rabbitroad/Desktop/UCL/PALSG308 Web Programming/results.html",
+		"/Users/rabbitroad/Desktop/whats-for-dinner/css/hover.css",
+		"/Users/rabbitroad/Desktop/Coding/coding_course/challengeexercise/css/main.css",
+		"/Users/rabbitroad/Desktop/Coding/coding_course/challengeexercise/index.html",
+		"/Users/rabbitroad/Desktop/UCL/PALSG308 Web Programming/index.html",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 4/templates/thanks.html",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 4/giphy2.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 4/2.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 4/1.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 4/files/test.txt",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/week 3/hello.html",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/hello.html",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/hellohellohello.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/hellohello.py",
+		"/Users/rabbitroad/Desktop/Coding/coding_course/first_site/index.html",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/untitled",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/truth.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/class2 notes.txt",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/truefalse.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/functionsreturning.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/functionsvariables.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/functions.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/promptingpassing.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/prompting people.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/questions2.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/questions1.py",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/class2.py",
+		"/Users/rabbitroad/Desktop/UCL/MSc Project fTCD/Language Lateralisation Project",
+		"/Users/rabbitroad/Desktop/Coding/AW 2016 - Python Curriculum/hello.py",
+		"/Users/rabbitroad/Desktop/UCL/MSc Project fTCD/Project description - fTCD Phonological rehearsal.txt",
+		"/Users/rabbitroad/Desktop/UCL/PALSG302 Rehabilitation of Acquired Communication Difficulties/PALSG302: TUTORIAL 1: SCHLAUG 2009 (keywords: whit",
+		"/Users/rabbitroad/Desktop/PALSG308/summary.html",
+		"/Users/rabbitroad/Desktop/PALSG308/experiment.html",
+		"/Users/rabbitroad/Desktop/PALSG308/experiment-dashes.html",
+		"/Users/rabbitroad/Desktop/PALSG308/trythis.html",
+		"/Users/rabbitroad/Desktop/PALSG308/stimuli.html",
+		"/Users/rabbitroad/Desktop/PALSG308/index.html",
+		"/Users/rabbitroad/Desktop/PALSG308/results.html",
+		"/Users/rabbitroad/Desktop/PALSG308/experiment-continuous.html",
+		"/Users/rabbitroad/Desktop/PALSG308/experiment2.html",
+		"/Users/rabbitroad/Desktop/PALSG308/css/main.css",
+		"/Users/rabbitroad/Desktop/PALSG308/index1.html",
+		"/Users/rabbitroad/Desktop/PALSG308/experiment3.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex7-3.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex7-2.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex8-2.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex8-3.html",
+		"/Users/rabbitroad/Desktop/PALSG308/js/bootstrap-toc.js",
+		"/Users/rabbitroad/Desktop/PALSG308/css/bootstrap-toc.css",
+		"/Users/rabbitroad/Desktop/PALSG308/EXPERIMENT.html",
+		"/Users/rabbitroad/Desktop/PALSG308/graphs.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex8-3-1.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex8-1.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex8-2-1.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex7-1.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex6-6.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex6-5.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex6-4.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex6-1-3.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex6-1-2.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex6-1.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex6-2.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex6-3-2.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex6-3.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex5-7.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex5-6.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex5-5.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex5-4.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex5-3.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex5-2.html",
+		"/Users/rabbitroad/Desktop/PALSG308/ex5-1.html",
+		"/Users/rabbitroad/Desktop/PALSG308/mydata.txt",
+		"/Users/rabbitroad/Desktop/you could make a life (sotw).txt",
+		"/Users/rabbitroad/Desktop/challengeexercise/galleryjs/jquery.min3.js",
+		"/Users/rabbitroad/Desktop/challengeexercise/menu.html",
+		"/Users/rabbitroad/Desktop/challengeexercise/index.html",
+		"/Users/rabbitroad/Desktop/challengeexercise/javascript/javascript.js",
+		"/Users/rabbitroad/Desktop/challengeexercise/css/main.css",
+		"/Users/rabbitroad/Desktop/challengeexercise/events.html",
+		"/Users/rabbitroad/Desktop/challengeexercise/feedback.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn-outline-success",
+			";\n",
+			"jpg",
+			";\n",
+			"’",
+			"–",
+			"  stimtab.push({ condition:3, stimulus:[\"",
+			"\"] });",
+			" stimtab.push({ condition:2, stimulus:[\"",
+			"\"] });",
+			"  stimtab.push({ condition:1, stimulus:[\"",
+			"–",
+			"“",
+			"”",
+			"Task",
+			"Grammaticality",
+			"</h1>",
+			"<h1",
+			"\"ex",
+			"ex.",
+			"Exercise ",
+			"<b>",
+			"</i>",
+			"<i>",
+			"</i>",
+			"</b>",
+			"<b>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"-",
+			"",
+			"<br />",
+			"",
+			"-",
+			"\"",
+			"Grammatical",
+			"</h2>",
+			"<h2",
+			"\"exercises/ex",
+			"ex. ",
+			"ex.",
+			"<strong>",
+			"</em>",
+			"</i>",
+			"</strong>",
+			"<strong>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "collection.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

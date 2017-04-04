@@ -1,0 +1,304 @@
+
+        body {
+          background-color: #ff8c1a;
+          color: #ffffff;
+          text-shadow: 1px 1px #444;
+          font-size: 14pt;
+          padding-top: 70px;
+        }
+
+        a {
+          color: #ffffff;
+        }
+
+
+        .navbar {
+          background-color: #ff8c1a;
+          color: #ffffff;
+          text-shadow: 1px 1px #444;
+          font-size: 16pt;
+        }
+
+        .navbar-fixed-top {
+          float: none;
+          margin: 0 auto;
+          display: block;
+          text-align: center;
+        }
+
+        form {
+          color: #000000;
+        }
+
+
+        footer {
+          font-size: 14px;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 20px;
+        }
+
+        .container {
+          padding-top: 5px;
+        }
+
+        #pasta {
+          background-image:url('../img/pastabackground.png');
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-color: #ffffff;
+          padding: 0;
+        }
+
+        #kitty:hover {
+            position: relative;
+        }
+
+        #kitty:hover:after {
+          content: url('../img/clickme.png'); /* no need for qoutes */
+          display: block;
+          position: absolute;
+          left: 50px; /* change this value to one that suits you */
+          bottom: 150px; /* change this value to one that suits you */
+         /* change this value to one that suits you */
+        }
+
+        #pasta {
+          font-size: 14px;
+          padding-top:180px;
+        }
+
+        #main {
+          padding-top: 30px;
+        }
+
+        #login-right {
+          padding-bottom: 13px;
+          font-size: 14px;
+        }
+
+        #secondpage {
+          padding-top: 30px;
+        }
+
+        #personal-page {
+          padding-top: 30px;
+        }
+
+        h1 {
+          color: #595959;
+        }
+        
+        h2 {
+          font-size: 14px;
+        }
+
+        #choose {
+          padding-top:15px;
+        }
+
+        #main {
+          display: none;
+        }
+
+        #fridge {
+          display:block;
+        }
+
+        #inside-fridge {
+          display:none;
+        }
+
+
+        .green-button {
+          border-top: none;
+          border-right: none;
+          border-bottom: none;
+          border-left: 6px solid #ad0057;
+          background-color: #ff8c1a;
+          text-shadow: 1px 1px #444;
+          font-variant: small-caps;
+        }
+
+        .red-button {
+          border-bottom: none;
+          border-top: none;
+          border-left: 6px solid #009999;
+          border-right: none;
+          background-color: #ff8c1a;
+          text-shadow: 1px 1px #444;
+          font-variant: small-caps;
+        }
+
+
+        #meat-option {
+          background-color: #ffffff;
+          color: #595959;
+        }
+
+        #no-meat {
+          background-color: #ffffff;
+          color: #595959;
+        }
+        #meat-option:hover:after {
+          content:url('../img/onepiece2.png');
+          display: block;
+        }
+
+
+        #no-meat:hover:after {
+          content:url('../img/veggie.png');
+          display: block;
+        }
+        
+
+        #email {
+          background-color: #00e2e6;
+          border-color: #007d80;
+        }
+
+        .fancy-title {
+          font-family: 'PT Sans Narrow', sans-serif;
+        }
+
+        #open {
+          color: #444;
+          text-shadow: #445;
+          min-height: 250px;
+        }
+
+        .shelved {
+          padding: 15px 0 0 0;
+          margin: auto;
+        }
+
+        /*.puddle:before {
+            content: '';
+              display: block;
+              width: 80%;
+              height: 1em;
+              background: rgba(0,0,0,.35);
+              border-radius: 50%;
+              position: absolute;
+              bottom:-10px;
+              -webkit-filter: blur(5px);
+              filter: blur(5px);
+              z-index:-5;
+        }
+
+        */
+
+        .shelf {
+          border-bottom: 30px solid  #f2f2f2;
+            border-left: 20px solid transparent;
+            border-right: 20px solid transparent;
+          top: -15px;
+          z-index: -10;
+        }
+
+        .shelf:after {
+          content: '';
+          background: #d9d9d9;
+          height: 5px;
+          width: calc(100% + 40px); /*IE9+*/
+          position: absolute;
+          top: 30px;
+          left: 0;
+          right: 0;
+          z-index: 1;
+          margin: 0 -20px;
+        }
+
+        .sidebar-outer {
+          position: relative;
+        }
+
+        @media (min-width: 768px) {
+          .sidebar {
+            position: fixed;
+          }
+        }
+
+
+        #left {
+          padding-right: 60px;
+        }
+        #right {
+          padding-right: 20px;
+        }
+
+        .recipepic {
+          height: 550px;
+          width: 550px;
+        }
+
+        .recipediv {
+          padding-right: 50px;
+        }
+
+        .image {
+          position: relative; 
+          width: 100%;
+        }
+
+        h3 {
+          position: absolute; 
+          top: 200px; 
+          left: 0; 
+          width: 100%;
+        }
+
+
+        h3 span { 
+           color: white; 
+           font: bold 24px/45px Helvetica, Sans-Serif; 
+           letter-spacing: -1px;  
+           background: rgb(0, 0, 0); /* fallback color */
+           background: rgba(0, 0, 0, 0.7);
+           padding: 10px; 
+        }
+
+        .cc-selector input{
+            margin:0;padding:0;
+            -webkit-appearance:none;
+               -moz-appearance:none;
+                    appearance:none;
+        }
+
+        .visa{background-image:url('../img/chicken.svg');}
+        .mastercard{background-image:url('../img/cow.png');}
+        .lloyds{background-image:url('../img/pig.png');}
+        .hsbc{background-image:url('../img/brocolli.png');}
+        .rbs{background-image:url('../img/mushroom.png');}
+        .cheese{background-image:url('../img/pepper.png');}
+        .ham{background-image:url('../img/cheese.png');}
+        .mayo{background-image:url('../img/milk.png');}
+        .bread{background-image:url('../img/eggs.png');}
+        .potato{background-image:url('../img/potato.png');}
+        .spinach{background-image:url('../img/spinach.png');}
+        .carrot{background-image:url('../img/carrot.png');}
+
+        .cc-selector-2 input:active +.drinkcard-cc, .cc-selector input:active +.drinkcard-cc{opacity: .9;}
+        .cc-selector-2 input:checked +.drinkcard-cc, .cc-selector input:checked +.drinkcard-cc{
+            -webkit-filter: none;
+               -moz-filter: none;
+                    filter: none;
+        }
+        .drinkcard-cc{
+            cursor:pointer;
+            background-size:contain;
+            background-repeat:no-repeat;
+            display:inline-block;
+            width:100px;height:70px;
+            -webkit-transition: all 100ms ease-in;
+               -moz-transition: all 100ms ease-in;
+                    transition: all 100ms ease-in;
+            -webkit-filter: brightness(1.8) grayscale(1) opacity(.7);
+               -moz-filter: brightness(1.8) grayscale(1) opacity(.7);
+                    filter: brightness(1.8) grayscale(1) opacity(.7);
+        }
+        .drinkcard-cc:hover{
+            -webkit-filter: brightness(1.2) grayscale(.5) opacity(.9);
+               -moz-filter: brightness(1.2) grayscale(.5) opacity(.9);
+                    filter: brightness(1.2) grayscale(.5) opacity(.9);
+        }
